@@ -12,7 +12,7 @@
      
      Size of the model after zipping and
      
-     Time taken evaluation(Inference time).
+     Time taken for evaluation(Inference time).
 
 [ Dataset used is Cifar-10 Dataset ]
 
