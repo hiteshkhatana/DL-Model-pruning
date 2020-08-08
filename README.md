@@ -1,6 +1,6 @@
 # DL-Model-pruning
 
----> Pruning is a technique of reducing Model size for making it memory efficient without loosing the accuracy of the actual model.
+- > Pruning is a technique of reducing Model size for making it memory efficient without loosing the accuracy of the actual model.
 
 ---> Pruning is required as models are getting very large , they becomes a problem while deploying process.
 
