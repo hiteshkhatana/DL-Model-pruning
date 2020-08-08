@@ -37,4 +37,5 @@
 ##Reference
 
 https://www.tensorflow.org/model_optimization/guide/pruning/pruning_with_keras
+
 https://towardsdatascience.com/pruning-deep-neural-network-56cae1ec5505
